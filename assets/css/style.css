@@ -1,0 +1,16 @@
+body {
+    background: url("../images/bg.jpg");
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#jumbo {
+    margin: 100px auto;
+    color: white;
+    opacity: 0.9;
+}
+    
+    
+    
+    
