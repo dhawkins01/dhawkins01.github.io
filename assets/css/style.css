@@ -1,8 +1,9 @@
 body {
-    background: url("../images/bg.jpg");
+    /* background: url("../images/bg.jpg");
     /* background-position: center; */
-    background-repeat: no-repeat;
-    background-size: cover;
+    /* background-repeat: no-repeat;
+    background-size: cover; */ 
+    background-color: #262626;
 }
 
 #jumbo {
